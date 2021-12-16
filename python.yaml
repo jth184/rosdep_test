@@ -1,0 +1,8 @@
+canmatrix:
+  debian:
+    pip:
+      packages: [canmatrix]
+  ubuntu:
+    pip:
+      packages: [canmatrix]
+
