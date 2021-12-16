@@ -1,4 +1,4 @@
-canmatrix:
+python3-canmatrix:
   debian:
     pip:
       packages: [canmatrix]
